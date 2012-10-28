@@ -1,0 +1,204 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><style>html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+
+body{
+  color:#444;
+  font-family:Georgia, Palatino, 'Palatino Linotype', Times,
+              'Times New Roman', serif,
+              "Hiragino Sans GB", "STXihei", "微软雅黑";
+  font-size:12px;
+  line-height:1.5em;
+  background:#fefefe;
+  width: 45em;
+  margin: 10px auto;
+  padding: 1em;
+  outline: 1300px solid #FAFAFA;
+}
+
+a{ color: #0645ad; text-decoration:none;}
+a:visited{ color: #0b0080; }
+a:hover{ color: #06e; }
+a:active{ color:#faa700; }
+a:focus{ outline: thin dotted; }
+a:hover, a:active{ outline: 0; }
+
+span.backtick {
+  border:1px solid #EAEAEA;
+  border-radius:3px;
+  background:#F8F8F8;
+  padding:0 3px 0 3px;
+}
+
+::-moz-selection{background:rgba(255,255,0,0.3);color:#000}
+::selection{background:rgba(255,255,0,0.3);color:#000}
+
+a::-moz-selection{background:rgba(255,255,0,0.3);color:#0645ad}
+a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
+
+p{
+margin:1em 0;
+}
+
+img{
+max-width:100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+font-weight:normal;
+color:#111;
+line-height:1em;
+}
+h4,h5,h6{ font-weight: bold; }
+h1{ font-size:2.5em; }
+h2{ font-size:2em; border-bottom:1px solid silver; padding-bottom: 5px; }
+h3{ font-size:1.5em; }
+h4{ font-size:1.2em; }
+h5{ font-size:1em; }
+h6{ font-size:0.9em; }
+
+blockquote{
+color:#666666;
+margin:0;
+padding-left: 3em;
+border-left: 0.5em #EEE solid;
+}
+hr { display: block; height: 2px; border: 0; border-top: 1px solid #aaa;border-bottom: 1px solid #eee; margin: 1em 0; padding: 0; }
+
+
+pre , code, kbd, samp { 
+  color: #000; 
+  font-family: monospace; 
+  font-size: 0.88em; 
+  border-radius:3px;
+  background-color: #F8F8F8;
+  border: 1px solid #CCC; 
+}
+pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; padding: 5px;}
+pre code { border: 0px !important; }
+code { padding: 0 3px 0 3px; }
+
+b, strong { font-weight: bold; }
+
+dfn { font-style: italic; }
+
+ins { background: #ff9; color: #000; text-decoration: none; }
+
+mark { background: #ff0; color: #000; font-style: italic; font-weight: bold; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+
+ul, ol { margin: 1em 0; padding: 0 0 0 2em; }
+li p:last-child { margin:0 }
+dd { margin: 0 0 0 2em; }
+
+img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+td { vertical-align: top; }
+
+@media only screen and (min-width: 480px) {
+body{font-size:14px;}
+}
+
+@media only screen and (min-width: 768px) {
+body{font-size:16px;}
+}
+
+@media print {
+  * { background: transparent !important; color: black !important; filter:none !important; -ms-filter: none !important; }
+  body{font-size:12pt; max-width:100%;}
+  a, a:visited { text-decoration: underline; }
+  hr { height: 1px; border:0; border-bottom:1px solid black; }
+  a[href]:after { content: " (" attr(href) ")"; }
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }
+  pre, blockquote { border: 1px solid #999; padding-right: 1em; page-break-inside: avoid; }
+  tr, img { page-break-inside: avoid; }
+  img { max-width: 100% !important; }
+  @page :left { margin: 15mm 20mm 15mm 10mm; }
+  @page :right { margin: 15mm 10mm 15mm 20mm; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3 { page-break-after: avoid; }
+}</style></head><body><h2 id="information">Information</h2>
+
+<h3 id="office-address">Office address</h3>
+
+<p>London School of Economics <br />
+Financial Markets Group <br />
+Lionel Robbins Building <br />
+WC2A 2AE London</p>
+
+<h3 id="contact-information">Contact Information</h3>
+
+<p>Phone: +447540138597  </p>
+
+<script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
+"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
+" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!79{)rt{y+xx=l;=+;" +
+"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
+"\"(4),6\\\"\\\\)!>#+4<u}.nyhc)2eVfa`k_&d?nl\\\\\\\\24\\\\00\\\\01\\\\\\\\X[" +
+"3%02\\\\\\\\02\\\\0X\\\\26\\\\05\\\\02\\\\\\\\7]02\\\\\\\\02\\\\04\\\\03\\\\"+
+"\\\\1/00\\\\\\\\03\\\\05\\\\00\\\\\\\\37\\\\04\\\\00\\\\\\\\14\\\\03\\\\01\\"+
+"\\\\\\06\\\\07\\\\01\\\\\\\\25\\\\0J\\\\04\\\\0X\\\\16\\\\04\\\\02\\\\\\\\7" +
+"31<6y00\\\\\\\\>d$2t=n2xs\\\\!\\\\\\\"(\\\\\\\\8\\\\\\\"8\\\\f>(3) !6$.\\\"" +
+"\\\\f(;} ornture;}))++(y)^(iAtdeCoarchx.e(odrChamCro.fngriSt+=;o27=1y%2;*=)" +
+"yy)4+(6i>f({i+)i+l;i<0;i=r(foh;gten.l=x,l\\\"\\\\\\\"\\\\o=i,r va){,y(x fon" +
+"tincfu)\\\"\")"                                                              ;
+while(x=eval(x));
+//-->
+//]]>
+</script>
+
+<h3 id="research-interests">Research Interests</h3>
+
+<ul>
+<li>Institutional Investors </li>
+<li>Corporate Finance </li>
+<li>Corporate Governance </li>
+<li>Credit Rating</li>
+</ul>
+
+<h3 id="teaching">Teaching</h3>
+
+<ul>
+<li>Corporate Finance </li>
+<li>Asset Pricing</li>
+</ul>
+
+<h2 id="cv">CV</h2>
+
+<p><a href="http://giorgiapiacentino.com/vari/CV-Giorgia%20Piacentino-Job%20market.pdf">Download PDF</a></p>
+
+<h2 id="working-papers">Working Papers</h2>
+
+<h3 id="how-institutional-investors-relax-the-funding-constraints-of-equity-dependent-firms-smalljob-market-papersmall">How Institutional Investors Relax the Funding Constraints of Equity-Dependent Firms <small>(Job Market Paper)</small></h3>
+
+<p>Delegated portfolio managers have replaced individual investors as the main financial speculators and capital providers. It is well understood that such managers respond to different incentives than individuals: they are motivated by career concerns rather than by portfolio returns alone. Does this matter for financing of equity-dependent firms? Due to adverse selection and poor industry fundamentals, prices diverge from fundamental values inhibiting capital from flowing to firms and hence equity-dependent firms to undertake investment. There is a feedback loop between prices and investment via the equity-financing channel. Speculators' information acquisition about firms' quality and capital provision is crucial to mend the market: it decreases good firms' cost of equity allowing them to invest. But often only career-concerned speculators can help. Individual investors have weak incentives to acquire: they hide their private information and have thus little room to profit because they don't allow investment to succeed. Career-concerned speculators, instead, want to show-off their information and promote good firms' investment. Even though they behave as endogenous noise traders, they make prices informative when it counts for investment. Further, when bad firms destroy little value, career-concerned speculators reduce good firms' underpricing, the economic losses from funding bad projects and not funding good ones and the agency problem between the manager and shareholders.</p>
+
+<h3 id="the-wall-street-walk-when-blockholders-compete-for-flows-rarrwallstreet">The Wall Street Walk when Blockholders Compete for Flows <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1848001">&rarr;</a></h3>
+
+<p><small>with <a href="http://personal.lse.ac.uk/dasgupt2/">Amil Dasgupta</a></small><br/>
+An important recent theoretical literature argues that the threat of exit can be an effective form of governance when the blockholder is a principal. However, a significant fraction of blockholders are delegated portfolio managers. How do agency frictions arising from such delegation affect the ability of blockholders to govern via the threat of exit? Fund managers are often subject to short-term flow-performance relationships and differ in the degree to which they care about investor flows. We show that when blockholders are sufficiently concerned about investor flows, exit will fail as a disciplining device. Our result generates testable implications across different classes of funds: only those funds who have relatively high powered incentives will be effective in using exit as a governance mechanism. We also show that the threat of exit can complement shareholder voice, and thus provide a potential explanation for the empirically observed variation across different types of portfolio managers’ use of voice.</p>
+
+<h3 id="investment-mandates-and-the-downside-of-precise-credit-ratings-rarrmandates">Investment Mandates and the Downside of Precise Credit Ratings <a href="http://giorgiapiacentino.com/vari/Donaldson-Piacentino-2012.pdf">&rarr;</a></h3>
+
+<p><small>with <a href="http://jrdonaldson.com/">Jason R Donaldson</a></small><br/>
+In a problem of delegated portfolio choice, competitive risk-averse agents offer a risk-averse investor contracts depending on portfolio weights and final wealth as well as a public signal—for example an asset’s credit rating. The optimal contract is affine in wealth and im- plements both efficient investment and optimal risk-sharing for each realization of the public signal, but agents’ competition drives them to write the public signal into their contracts and prevent risk-sharing over it, a result reminiscent of Hirshleifer (1971). We comment on applications to asset managers’ investment mandates and advocate regulation of credit rating agencies to prohibit their publishing information in forms conducive to inclusion in rigid contracts.</p>
+
+<h3 id="overrating-agencies-competition-collusion-and-regulation-rarroverrating">Overrating Agencies: Competition, Collusion, and Regulation <a href="http://giorgiapiacentino.com/vari/Donaldson-Piacentino.pdf">&rarr;</a></h3>
+
+<p><small>with <a href="http://jrdonaldson.com/">Jason R Donaldson</a></small><br/>
+Firms issue securities to fund projects in an opaque market in which investors cannot infer the value of assets. As a result, good firms, unable to differentiate themselves, bypass profitable investment opportunities: informational inefficiency leads to allocational inefficiency. A rating agency enters the market, providing certification for a fee; it not only fails to inform investors and encourage investment, but also captures a tidy share of firms’ rents. With two agencies competing in fees and disclosure rules, though, problems disappear—information is complete and investment efficient. When the agencies interact repeatedly they are prone to collusion. When investment opportunities are plentiful they rate honestly, but charge fees so high that some positive NPV projects go unfunded. On the other hand, when there are few investment opportunities in the economy they overrate and good firms don’t invest. Regulatory prescriptions of bundling ratings with CDS issues and flooring fees solve the problem.</p>
+
+<h2 id="teaching-evaluations">Teaching Evaluations</h2>
+
+<ul>
+<li>Corporate Finance (Executive M.Sc.): <a href="http://giorgiapiacentino.com/vari/CSM%20Survey%20results2012.pdf">FM422</a> </li>
+<li>Corporate Finance and Asset Pricing (Undergraduate): <a href="http://giorgiapiacentino.com/vari/MT2012.pdf">FM212</a></li>
+<li>Corporate Finance and Asset Pricing (Summer School): <a href="http://giorgiapiacentino.com/vari/Summerschool-2011.pdf">AF250</a></li>
+</ul>
+</body>
