@@ -45,28 +45,43 @@ while(x=eval(x));
 
 ## Working Papers
 
-### How Institutional Investors Relax the Funding Constraints of Equity-Dependent Firms <small>(Job Market Paper)</small>
-Delegated portfolio managers have replaced individual investors as the main financial speculators and capital providers. It is well understood that such managers respond to different incentives than individuals: they are motivated by career concerns rather than by portfolio returns alone. Does this matter for financing of equity-dependent firms? Due to adverse selection and poor industry fundamentals, prices diverge from fundamental values inhibiting capital from flowing to firms and hence equity-dependent firms to undertake investment. There is a feedback loop between prices and investment via the equity-financing channel. Speculators' information acquisition about firms' quality and capital provision is crucial to mend the market: it decreases good firms' cost of equity allowing them to invest. But often only career-concerned speculators can help. Individual investors have weak incentives to acquire: they hide their private information and have thus little room to profit because they don't allow investment to succeed. Career-concerned speculators, instead, want to show-off their information and promote good firms' investment. Even though they behave as endogenous noise traders, they make prices informative when it counts for investment. Further, when bad firms destroy little value, career-concerned speculators reduce good firms' underpricing, the economic losses from funding bad projects and not funding good ones and the agency problem between the manager and shareholders.
+### Do Institutional Investors Improve Capital Allocation? (Job Market Paper)
 
-### The Wall Street Walk when Blockholders Compete for Flows [&rarr;][wallstreet]
-<small>with [Amil Dasgupta][amil]</small><br/>
+[View full paper (PDF)][jmp]
+
+I explore delegated portfolio managers’ influence on firms’ funding, economic welfare and shareholders’ wealth. The finance literature has shown that delegated portfolio managers respond to career-concerns highlighting their negative effects. I show a positive side of career-concerned delegated portfolio managers: They allocate capital better than individual investors, fostering growth and enriching shareholders. When adverse selection prevents capital from flowing to firms, speculators’ information acquisition and capital provision are crucial to mend the funding market. But, when prices feed back into investment, individual investors have little room to profit and weak incentives to acquire information and, thus, inhibit investment. Instead, delegated portfolio managers’ career-concerns lead them endogenously to impound information into prices and to trade more often than individual investors, thus relaxing firms’ financial constraints and promoting good firms’ investment.
+
+### The Wall Street Walk when Blockholders Compete for Flows
+<small>With [Amil Dasgupta][amil]</small>
+
+[View full paper (SSRN link)][wallstreet]
+
 An important recent theoretical literature argues that the threat of exit can be an effective form of governance when the blockholder is a principal. However, a significant fraction of blockholders are delegated portfolio managers. How do agency frictions arising from such delegation affect the ability of blockholders to govern via the threat of exit? Fund managers are often subject to short-term flow-performance relationships and differ in the degree to which they care about investor flows. We show that when blockholders are sufficiently concerned about investor flows, exit will fail as a disciplining device. Our result generates testable implications across different classes of funds: only those funds who have relatively high powered incentives will be effective in using exit as a governance mechanism. We also show that the threat of exit can complement shareholder voice, and thus provide a potential explanation for the empirically observed variation across different types of portfolio managers’ use of voice.
 
-### Investment Mandates and the Downside of Precise Credit Ratings [&rarr;][mandates] 
-<small>with [Jason R Donaldson][jason]</small><br/>
+### Investment Mandates and the Downside of Precise Credit Ratings
+
+<small>With [Jason R Donaldson][jason]</small><br/>
+
+[View full paper (PDF)][mandates]
+
 In a problem of delegated portfolio choice, competitive risk-averse agents offer a risk-averse investor contracts depending on portfolio weights and final wealth as well as a public signal—for example an asset’s credit rating. The optimal contract is affine in wealth and im- plements both efficient investment and optimal risk-sharing for each realization of the public signal, but agents’ competition drives them to write the public signal into their contracts and prevent risk-sharing over it, a result reminiscent of Hirshleifer (1971). We comment on applications to asset managers’ investment mandates and advocate regulation of credit rating agencies to prohibit their publishing information in forms conducive to inclusion in rigid contracts.
 
-### Overrating Agencies: Competition, Collusion, and Regulation [&rarr;][overrating] 
-<small>with [Jason R Donaldson][jason]</small><br/>
+### Overrating Agencies: Competition, Collusion, and Regulation
+
+<small>With [Jason R Donaldson][jason]</small>
+
+[View full paper (PDF)][overrating]
+
 Firms issue securities to fund projects in an opaque market in which investors cannot infer the value of assets. As a result, good firms, unable to differentiate themselves, bypass profitable investment opportunities: informational inefficiency leads to allocational inefficiency. A rating agency enters the market, providing certification for a fee; it not only fails to inform investors and encourage investment, but also captures a tidy share of firms’ rents. With two agencies competing in fees and disclosure rules, though, problems disappear—information is complete and investment efficient. When the agencies interact repeatedly they are prone to collusion. When investment opportunities are plentiful they rate honestly, but charge fees so high that some positive NPV projects go unfunded. On the other hand, when there are few investment opportunities in the economy they overrate and good firms don’t invest. Regulatory prescriptions of bundling ratings with CDS issues and flooring fees solve the problem.
 
 ## Teaching Evaluations
 
 - Corporate Finance (Executive M.Sc.): [FM422][fm422] 
-- Corporate Finance and Asset Pricing (Undergraduate): [FM212][fm212]
-- Corporate Finance and Asset Pricing (Summer School): [AF250][af250]
+- Principles of Finance (Undergraduate): [FM212][fm212]
+- Financial Markets (Summer School): [AF250][af250]
 
 [portrait]: http://www2.lse.ac.uk/finance/research/financePhdProfiles/Photos/Piacentino194x250.jpg
+[jmp]: http://giorgiapiacentino.com/vari/JobMarketPaper20121115.pdf
 [wallstreet]: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1848001
 [mandates]: http://giorgiapiacentino.com/vari/Donaldson-Piacentino-2012.pdf
 [overrating]: http://giorgiapiacentino.com/vari/Donaldson-Piacentino.pdf
